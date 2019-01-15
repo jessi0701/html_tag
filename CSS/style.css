@@ -1,0 +1,22 @@
+*{
+    color: red;
+}
+
+h1 {
+    color:rosybrown;
+}
+.blue{
+    color:blue;
+}
+.pink{
+    color:pink;
+}
+#green{
+    color:green;
+}
+.bold{
+    font-weight:bold;
+}
+h5{
+    width:50%;
+}
